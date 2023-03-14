@@ -1,7 +1,7 @@
 # comment-jsx
-keybinding code for jsx file commenting
-in vs code press ctrl+k+s and paste this code
-```
+>in vs code press ctrl+k+s and paste this code
+
+```json
 [
   {
     "key": "shift+alt+a",
